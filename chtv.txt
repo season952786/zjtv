@@ -1,6 +1,7 @@
 从化频道,#genre#
 
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
 
 央视频道,#genre#
 
